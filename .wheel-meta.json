@@ -1,0 +1,22 @@
+{
+  "wheel_id": 474,
+  "structure": "umbrella",
+  "slug": "toowoombafencing-103",
+  "project": "fencing-services-toowoomba-checklist-1384300870a8344d32af7b5d0c",
+  "parent_t1_ref": "toowoombafencing-151",
+  "node_role": "feeder",
+  "money_target": "toowoombafencing.au",
+  "primary_kw": "fencing services toowoomba checklist",
+  "intended_url": "https://aumedia.neocities.org/fencing-services-toowoomba-checklist-1384300870a8344d32af7b5d0c/",
+  "tier": "T2",
+  "writeback_nonce": "15e502da773726b5",
+  "links": [
+    {
+      "target_url": "http://fencing-services-toowoomba-d0903c5107f412ae6a42d1a990c6f00ccd03.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "this fencing services toowoomba guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
